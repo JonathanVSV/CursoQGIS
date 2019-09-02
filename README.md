@@ -1,10 +1,10 @@
-#Curso básico para aprender a utilizar QGIS 3.4
+# Curso básico para aprender a utilizar QGIS 3.4
 
 Es un curso básico donde se explica el uso de QGIS 3.4 y algunos de los análisis que se pueden realizar en este software.
 
 El curso consta de varios ejercicios donde se realizan operaciones utilizando datos vectoriales, algunas con información raster y por último, cómo crear mapas en este programa. 
 
-##Archivos
+## Archivos
 
 ### PDF
 En el pdf vienen las instrucciones paso por paso de los ejercicios.
